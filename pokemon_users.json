@@ -1,0 +1,1262 @@
+[
+    {
+        "username": "BulbasaurBuddy",
+        "category": "Grass/Poison Pokémon",
+        "name": "Bulbasaur",
+        "interests": [
+            "photosynthesis",
+            "sunbathing",
+            "gardening"
+        ]
+    },
+    {
+        "username": "FlameTailChar",
+        "category": "Fire Pokémon",
+        "name": "Charmander",
+        "interests": [
+            "campfires",
+            "volcano hiking",
+            "tail flame selfies"
+        ]
+    },
+    {
+        "username": "ShellSplash",
+        "category": "Water Pokémon",
+        "name": "Squirtle",
+        "interests": [
+            "swimming races",
+            "shell polishing",
+            "water gun contests"
+        ]
+    },
+    {
+        "username": "PikaPower",
+        "category": "Electric Pokémon",
+        "name": "Pikachu",
+        "interests": [
+            "thunderstorms",
+            "chewing berries",
+            "adventures with friends"
+        ]
+    },
+    {
+        "username": "ButterFlyHigh",
+        "category": "Bug/Flying Pokémon",
+        "name": "Butterfree",
+        "interests": [
+            "flower gardens",
+            "fluttering freely",
+            "pollen collecting"
+        ]
+    },
+    {
+        "username": "DracoMeteorite",
+        "category": "Dragon/Flying Pokémon",
+        "name": "Dragonite",
+        "interests": [
+            "cloud surfing",
+            "deliveries",
+            "star gazing"
+        ]
+    },
+    {
+        "username": "SporeMaster",
+        "category": "Grass/Poison Pokémon",
+        "name": "Vileplume",
+        "interests": [
+            "poison experiments",
+            "flower festivals",
+            "rain dancing"
+        ]
+    },
+    {
+        "username": "Steel_Wings",
+        "category": "Steel/Flying Pokémon",
+        "name": "Skarmory",
+        "interests": [
+            "sky battles",
+            "armor polishing",
+            "cliff diving"
+        ]
+    },
+    {
+        "username": "AquaJetKing",
+        "category": "Water Pokémon",
+        "name": "Greninja",
+        "interests": [
+            "ninja training",
+            "silent swimming",
+            "shadow tactics"
+        ]
+    },
+    {
+        "username": "ShinyMewtwo",
+        "category": "Psychic Pokémon",
+        "name": "Mewtwo",
+        "interests": [
+            "genetic research",
+            "mind games",
+            "isolation"
+        ]
+    },
+    {
+        "username": "InfernoBlaze",
+        "category": "Fire/Fighting Pokémon",
+        "name": "Blaziken",
+        "interests": [
+            "kickboxing",
+            "volcano treks",
+            "spicy food challenges"
+        ]
+    },
+    {
+        "username": "AuroraSwan",
+        "category": "Water/Flying Pokémon",
+        "name": "Swanna",
+        "interests": [
+            "lake dancing",
+            "aerial performances",
+            "feather care"
+        ]
+    },
+    {
+        "username": "RockyRhyhorn",
+        "category": "Ground/Rock Pokémon",
+        "name": "Rhyhorn",
+        "interests": [
+            "rock smashing",
+            "mud baths",
+            "charging practice"
+        ]
+    },
+    {
+        "username": "ZapMaster",
+        "category": "Electric/Flying Pokémon",
+        "name": "Zapdos",
+        "interests": [
+            "storm chasing",
+            "lightning strikes",
+            "sky domination"
+        ]
+    },
+    {
+        "username": "FrozenFury",
+        "category": "Ice/Flying Pokémon",
+        "name": "Articuno",
+        "interests": [
+            "snowstorms",
+            "ice sculpting",
+            "glacier exploring"
+        ]
+    },
+    {
+        "username": "MoltenSky",
+        "category": "Fire/Flying Pokémon",
+        "name": "Moltres",
+        "interests": [
+            "volcanic skies",
+            "ember trails",
+            "heatwaves"
+        ]
+    },
+    {
+        "username": "JollyJiggly",
+        "category": "Normal/Fairy Pokémon",
+        "name": "Jigglypuff",
+        "interests": [
+            "karaoke",
+            "balloon tricks",
+            "sleep studies"
+        ]
+    },
+    {
+        "username": "NinjaFrog",
+        "category": "Water/Dark Pokémon",
+        "name": "Greninja",
+        "interests": [
+            "stealth moves",
+            "water shuriken",
+            "tree hopping"
+        ]
+    },
+    {
+        "username": "NightBat",
+        "category": "Poison/Flying Pokémon",
+        "name": "Crobat",
+        "interests": [
+            "cave diving",
+            "midnight flights",
+            "fruit hunting"
+        ]
+    },
+    {
+        "username": "FairyQueen",
+        "category": "Fairy Pokémon",
+        "name": "Sylveon",
+        "interests": [
+            "ribbon dancing",
+            "sparkles",
+            "tea parties"
+        ]
+    },
+    {
+        "username": "DragonLord",
+        "category": "Dragon/Ground Pokémon",
+        "name": "Garchomp",
+        "interests": [
+            "desert racing",
+            "digging tunnels",
+            "combat training"
+        ]
+    },
+    {
+        "username": "CosmicWish",
+        "category": "Psychic/Fairy Pokémon",
+        "name": "Jirachi",
+        "interests": [
+            "granting wishes",
+            "meteor watching",
+            "sleeping"
+        ]
+    },
+    {
+        "username": "GhostlyCharm",
+        "category": "Ghost/Fire Pokémon",
+        "name": "Chandelure",
+        "interests": [
+            "haunted houses",
+            "fire dancing",
+            "collecting souls"
+        ]
+    },
+    {
+        "username": "TornadoKing",
+        "category": "Flying Pokémon",
+        "name": "Tornadus",
+        "interests": [
+            "storm chasing",
+            "wind surfing",
+            "cloud sculpting"
+        ]
+    },
+    {
+        "username": "ShadowRider",
+        "category": "Ghost/Ice Pokémon",
+        "name": "Calyrex",
+        "interests": [
+            "ancient legends",
+            "ice fields",
+            "kingly duties"
+        ]
+    },
+    {
+        "username": "ToxicFang",
+        "category": "Poison/Dark Pokémon",
+        "name": "Drapion",
+        "interests": [
+            "desert survival",
+            "ambush tactics",
+            "claw sharpening"
+        ]
+    },
+    {
+        "username": "BlazeRunner",
+        "category": "Fire Pokémon",
+        "name": "Rapidash",
+        "interests": [
+            "track racing",
+            "volcano runs",
+            "tail grooming"
+        ]
+    },
+    {
+        "username": "AquaWhirl",
+        "category": "Water Pokémon",
+        "name": "Poliwhirl",
+        "interests": [
+            "swimming laps",
+            "hypnosis tricks",
+            "bubble contests"
+        ]
+    },
+    {
+        "username": "ShadowPulse",
+        "category": "Ghost/Dark Pokémon",
+        "name": "Spiritomb",
+        "interests": [
+            "ancient secrets",
+            "dark rituals",
+            "whispering shadows"
+        ]
+    },
+    {
+        "username": "MeteorDraco",
+        "category": "Dragon Pokémon",
+        "name": "Salamence",
+        "interests": [
+            "sky domination",
+            "meteor showers",
+            "territory flying"
+        ]
+    },
+    {
+        "username": "IronCrusher",
+        "category": "Steel/Rock Pokémon",
+        "name": "Aggron",
+        "interests": [
+            "mountain climbing",
+            "armor crafting",
+            "headbutting boulders"
+        ]
+    },
+    {
+        "username": "QueenBee",
+        "category": "Bug/Flying Pokémon",
+        "name": "Vespiquen",
+        "interests": [
+            "hive building",
+            "royal duties",
+            "honey collection"
+        ]
+    },
+    {
+        "username": "FrostBite",
+        "category": "Ice Pokémon",
+        "name": "Glaceon",
+        "interests": [
+            "ice skating",
+            "snow sculpting",
+            "frosty adventures"
+        ]
+    },
+    {
+        "username": "JungleKing",
+        "category": "Grass/Dark Pokémon",
+        "name": "Shiftry",
+        "interests": [
+            "forest hiking",
+            "wind control",
+            "leaf cutting"
+        ]
+    },
+    {
+        "username": "ElectroBuzz",
+        "category": "Electric Pokémon",
+        "name": "Electabuzz",
+        "interests": [
+            "power surges",
+            "lightning storms",
+            "speed runs"
+        ]
+    },
+    {
+        "username": "MagmaCore",
+        "category": "Fire/Rock Pokémon",
+        "name": "Magcargo",
+        "interests": [
+            "volcano crawling",
+            "lava pools",
+            "rock collecting"
+        ]
+    },
+    {
+        "username": "SteelNinja",
+        "category": "Steel/Fighting Pokémon",
+        "name": "Lucario",
+        "interests": [
+            "aura training",
+            "martial arts",
+            "mountain meditation"
+        ]
+    },
+    {
+        "username": "PinkDreamer",
+        "category": "Psychic Pokémon",
+        "name": "Mew",
+        "interests": [
+            "teleporting",
+            "pranks",
+            "floating around"
+        ]
+    },
+    {
+        "username": "GhostRider",
+        "category": "Ghost/Fire Pokémon",
+        "name": "Blacephalon",
+        "interests": [
+            "fireworks",
+            "mind games",
+            "magic shows"
+        ]
+    },
+    {
+        "username": "SwampKing",
+        "category": "Water/Ground Pokémon",
+        "name": "Swampert",
+        "interests": [
+            "mud wrestling",
+            "heavy lifting",
+            "tsunami surfing"
+        ]
+    },
+    {
+        "username": "MegaBlaster",
+        "category": "Water Pokémon",
+        "name": "Blastoise",
+        "interests": [
+            "water cannons",
+            "shell upgrades",
+            "deep-sea diving"
+        ]
+    },
+    {
+        "username": "LeafyLegend",
+        "category": "Grass Pokémon",
+        "name": "Leafeon",
+        "interests": [
+            "forest walks",
+            "leaf dancing",
+            "eco-friendly living"
+        ]
+    },
+    {
+        "username": "FuryClaws",
+        "category": "Dark/Ice Pokémon",
+        "name": "Weavile",
+        "interests": [
+            "ice climbing",
+            "silent hunts",
+            "speed battles"
+        ]
+    },
+    {
+        "username": "MysticWish",
+        "category": "Fairy Pokémon",
+        "name": "Togekiss",
+        "interests": [
+            "peace flying",
+            "star watching",
+            "blessing friends"
+        ]
+    },
+    {
+        "username": "VenomSting",
+        "category": "Bug/Poison Pokémon",
+        "name": "Beedrill",
+        "interests": [
+            "speed drills",
+            "flower hunting",
+            "swarm tactics"
+        ]
+    },
+    {
+        "username": "DiamondEdge",
+        "category": "Steel/Dragon Pokémon",
+        "name": "Dialga",
+        "interests": [
+            "time travel",
+            "gem polishing",
+            "space exploration"
+        ]
+    },
+    {
+        "username": "PrimalSea",
+        "category": "Water Pokémon",
+        "name": "Kyogre",
+        "interests": [
+            "ocean storms",
+            "deep-sea diving",
+            "rain summoning"
+        ]
+    },
+    {
+        "username": "SpookyMask",
+        "category": "Ghost/Grass Pokémon",
+        "name": "Trevenant",
+        "interests": [
+            "haunting forests",
+            "tree growing",
+            "ghost stories"
+        ]
+    },
+    {
+        "username": "SolarFlareon",
+        "category": "Fire Pokémon",
+        "name": "Flareon",
+        "interests": [
+            "campfires",
+            "lava baths",
+            "sunbathing"
+        ]
+    },
+    {
+        "username": "CloudDancer",
+        "category": "Flying/Dragon Pokémon",
+        "name": "Rayquaza",
+        "interests": [
+            "cloud surfing",
+            "sky patrolling",
+            "meteor hunting"
+        ]
+    },
+    {
+        "username": "FrostQueen",
+        "category": "Ice/Psychic Pokémon",
+        "name": "Froslass",
+        "interests": [
+            "snowy hikes",
+            "ice sculptures",
+            "haunted legends"
+        ]
+    },
+    {
+        "username": "ToxicBloom",
+        "category": "Grass/Poison Pokémon",
+        "name": "Roserade",
+        "interests": [
+            "flower arranging",
+            "toxic perfume crafting",
+            "garden battles"
+        ]
+    },
+    {
+        "username": "IronJuggernaut",
+        "category": "Steel/Ground Pokémon",
+        "name": "Steelix",
+        "interests": [
+            "digging tunnels",
+            "armor upgrades",
+            "earthquakes"
+        ]
+    },
+    {
+        "username": "ElectricSurge",
+        "category": "Electric Pokémon",
+        "name": "Zeraora",
+        "interests": [
+            "lightning speed",
+            "electric circuits",
+            "cloud surfing"
+        ]
+    },
+    {
+        "username": "NightProwler",
+        "category": "Dark Pokémon",
+        "name": "Umbreon",
+        "interests": [
+            "moonlit walks",
+            "shadow games",
+            "silent stalking"
+        ]
+    },
+    {
+        "username": "GigaImpact",
+        "category": "Normal Pokémon",
+        "name": "Slaking",
+        "interests": [
+            "napping",
+            "snacking",
+            "avoiding work"
+        ]
+    },
+    {
+        "username": "FluffyGuard",
+        "category": "Normal Pokémon",
+        "name": "Dubwool",
+        "interests": [
+            "rolling hills",
+            "wool care",
+            "headbutt practice"
+        ]
+    },
+    {
+        "username": "PhantomStrike",
+        "category": "Ghost/Fighting Pokémon",
+        "name": "Marshadow",
+        "interests": [
+            "shadow boxing",
+            "sneaky pranks",
+            "ancient ruins"
+        ]
+    },
+    {
+        "username": "StormCaller",
+        "category": "Electric/Dragon Pokémon",
+        "name": "Zekrom",
+        "interests": [
+            "storm summoning",
+            "power generation",
+            "dark skies"
+        ]
+    },
+    {
+        "username": "BlazingFury",
+        "category": "Fire/Ghost Pokémon",
+        "name": "Cursola",
+        "interests": [
+            "ghost stories",
+            "coral reefs",
+            "haunting beaches"
+        ]
+    },
+    {
+        "username": "RoyalFlame",
+        "category": "Fire/Steel Pokémon",
+        "name": "Heatran",
+        "interests": [
+            "magma swimming",
+            "volcano exploration",
+            "fireproof gear"
+        ]
+    },
+    {
+        "username": "DuskHowler",
+        "category": "Ghost/Dragon Pokémon",
+        "name": "Giratina",
+        "interests": [
+            "shadow realm exploring",
+            "dimension warping",
+            "dark legends"
+        ]
+    },
+    {
+        "username": "DrillKing",
+        "category": "Ground/Steel Pokémon",
+        "name": "Excadrill",
+        "interests": [
+            "underground racing",
+            "tunnel digging",
+            "earthquakes"
+        ]
+    },
+    {
+        "username": "CrimsonBlaze",
+        "category": "Fire/Flying Pokémon",
+        "name": "Talonflame",
+        "interests": [
+            "sky racing",
+            "ember control",
+            "aerial battles"
+        ]
+    },
+    {
+        "username": "BubbleCharm",
+        "category": "Water/Fairy Pokémon",
+        "name": "Primarina",
+        "interests": [
+            "singing contests",
+            "ocean dances",
+            "bubble art"
+        ]
+    },
+    {
+        "username": "SavageClaw",
+        "category": "Dark/Steel Pokémon",
+        "name": "Bisharp",
+        "interests": [
+            "blade sharpening",
+            "stealth missions",
+            "battle strategy"
+        ]
+    },
+    {
+        "username": "StormRider",
+        "category": "Flying/Electric Pokémon",
+        "name": "Thundurus",
+        "interests": [
+            "storm chasing",
+            "cloud surfing",
+            "electric roars"
+        ]
+    },
+    {
+        "username": "CosmicKnight",
+        "category": "Psychic/Steel Pokémon",
+        "name": "Metagross",
+        "interests": [
+            "supercomputer coding",
+            "meteor tracking",
+            "gravity puzzles"
+        ]
+    },
+    {
+        "username": "MoonlightMage",
+        "category": "Fairy/Psychic Pokémon",
+        "name": "Cresselia",
+        "interests": [
+            "dream weaving",
+            "lunar phases",
+            "aurora watching"
+        ]
+    },
+    {
+        "username": "RagingHorn",
+        "category": "Ground/Rock Pokémon",
+        "name": "Rhyperior",
+        "interests": [
+            "rock smashing",
+            "earthshaking stomps",
+            "volcano treks"
+        ]
+    },
+    {
+        "username": "NeonSlash",
+        "category": "Bug/Electric Pokémon",
+        "name": "Vikavolt",
+        "interests": [
+            "charging circuits",
+            "laser focus",
+            "forest flying"
+        ]
+    },
+    {
+        "username": "EclipseWolf",
+        "category": "Dark/Psychic Pokémon",
+        "name": "Lunala",
+        "interests": [
+            "moon phases",
+            "cosmic balance",
+            "space gliding"
+        ]
+    },
+    {
+        "username": "NovaSpark",
+        "category": "Fairy/Psychic Pokémon",
+        "name": "Tapu Koko",
+        "interests": [
+            "electric festivals",
+            "guardian duties",
+            "cloud surfing"
+        ]
+    },
+    {
+        "username": "CoralReef",
+        "category": "Water/Rock Pokémon",
+        "name": "Corsola",
+        "interests": [
+            "reef building",
+            "coral collecting",
+            "ocean cleanups"
+        ]
+    },
+    {
+        "username": "KingKrab",
+        "category": "Water Pokémon",
+        "name": "Kingler",
+        "interests": [
+            "claw competitions",
+            "beach battles",
+            "bubble beams"
+        ]
+    },
+    {
+        "username": "SpaceRuler",
+        "category": "Water/Dragon Pokémon",
+        "name": "Palkia",
+        "interests": [
+            "space-time manipulation",
+            "galaxy exploration",
+            "dimensional art"
+        ]
+    },
+    {
+        "username": "TimeKeeper",
+        "category": "Steel/Dragon Pokémon",
+        "name": "Dialga",
+        "interests": [
+            "time travel theories",
+            "ancient history",
+            "clock collecting"
+        ]
+    },
+    {
+        "username": "EternalAlpha",
+        "category": "Normal Pokémon",
+        "name": "Arceus",
+        "interests": [
+            "creation stories",
+            "dimension watching",
+            "balance of the universe"
+        ]
+    },
+    {
+        "username": "StarryWish",
+        "category": "Steel/Psychic Pokémon",
+        "name": "Jirachi",
+        "interests": [
+            "granting wishes",
+            "meteor showers",
+            "stargazing"
+        ]
+    },
+    {
+        "username": "TimeSapling",
+        "category": "Psychic/Grass Pokémon",
+        "name": "Celebi",
+        "interests": [
+            "forest preservation",
+            "time traveling",
+            "healing nature"
+        ]
+    },
+    {
+        "username": "TinyTalon",
+        "category": "Normal/Flying Pokémon",
+        "name": "Pidgey",
+        "interests": [
+            "sky gliding",
+            "seed hunting",
+            "windy days"
+        ]
+    },
+    {
+        "username": "QuickNibbles",
+        "category": "Normal Pokémon",
+        "name": "Rattata",
+        "interests": [
+            "cheese tasting",
+            "tunnel exploring",
+            "speed runs"
+        ]
+    },
+    {
+        "username": "BuzzinBee",
+        "category": "Bug/Poison Pokémon",
+        "name": "Weedle",
+        "interests": [
+            "leaf munching",
+            "hide and seek",
+            "tree climbing"
+        ]
+    },
+    {
+        "username": "FluffyCater",
+        "category": "Bug Pokémon",
+        "name": "Caterpie",
+        "interests": [
+            "leaf nibbling",
+            "branch crawling",
+            "silk spinning"
+        ]
+    },
+    {
+        "username": "RockyBuddy",
+        "category": "Rock/Ground Pokémon",
+        "name": "Geodude",
+        "interests": [
+            "rock collecting",
+            "mountain hikes",
+            "arm wrestling"
+        ]
+    },
+    {
+        "username": "SplashMaster",
+        "category": "Water Pokémon",
+        "name": "Magikarp",
+        "interests": [
+            "splashing",
+            "jump contests",
+            "daydreaming of evolution"
+        ]
+    },
+    {
+        "username": "ZippyBat",
+        "category": "Poison/Flying Pokémon",
+        "name": "Zubat",
+        "interests": [
+            "dark caves",
+            "silent flying",
+            "echo location"
+        ]
+    },
+    {
+        "username": "MoleDigger",
+        "category": "Ground Pokémon",
+        "name": "Diglett",
+        "interests": [
+            "soil digging",
+            "underground races",
+            "mud baths"
+        ]
+    },
+    {
+        "username": "TackleFox",
+        "category": "Normal Pokémon",
+        "name": "Sentret",
+        "interests": [
+            "tail balancing",
+            "watch duties",
+            "foraging"
+        ]
+    },
+    {
+        "username": "PebbleRoll",
+        "category": "Rock Pokémon",
+        "name": "Roggenrola",
+        "interests": [
+            "rock stacking",
+            "cave rolling",
+            "echo listening"
+        ]
+    },
+    {
+        "username": "LeafTail",
+        "category": "Normal/Grass Pokémon",
+        "name": "Skwovet",
+        "interests": [
+            "berry hoarding",
+            "tree climbing",
+            "napping"
+        ]
+    },
+    {
+        "username": "SlimeBlob",
+        "category": "Normal Pokémon",
+        "name": "Gulpin",
+        "interests": [
+            "eating everything",
+            "rolling around",
+            "napping"
+        ]
+    },
+    {
+        "username": "StickyString",
+        "category": "Bug Pokémon",
+        "name": "Wurmple",
+        "interests": [
+            "branch crawling",
+            "string shots",
+            "leaf collecting"
+        ]
+    },
+    {
+        "username": "SandyRoll",
+        "category": "Ground Pokémon",
+        "name": "Sandshrew",
+        "interests": [
+            "sand surfing",
+            "digging tunnels",
+            "sunbathing"
+        ]
+    },
+    {
+        "username": "QuickClaws",
+        "category": "Normal Pokémon",
+        "name": "Bidoof",
+        "interests": [
+            "dam building",
+            "log chewing",
+            "lazy afternoons"
+        ]
+    },
+    {
+        "username": "CloudFluff",
+        "category": "Normal/Flying Pokémon",
+        "name": "Hoothoot",
+        "interests": [
+            "nighttime flights",
+            "clock watching",
+            "stargazing"
+        ]
+    },
+    {
+        "username": "WoollyJump",
+        "category": "Electric Pokémon",
+        "name": "Mareep",
+        "interests": [
+            "cloud watching",
+            "wool fluffing",
+            "static tricks"
+        ]
+    },
+    {
+        "username": "PuddleJumper",
+        "category": "Water Pokémon",
+        "name": "Lotad",
+        "interests": [
+            "pond floating",
+            "rain dancing",
+            "leaf surfing"
+        ]
+    },
+    {
+        "username": "PickyPeck",
+        "category": "Normal/Flying Pokémon",
+        "name": "Pidgeotto",
+        "interests": [
+            "air gliding",
+            "nest building",
+            "worm hunting"
+        ]
+    },
+    {
+        "username": "ChillRat",
+        "category": "Normal Pokémon",
+        "name": "Patrat",
+        "interests": [
+            "standing guard",
+            "tunnel digging",
+            "berry gathering"
+        ]
+    },
+    {
+        "username": "WebSpinner",
+        "category": "Bug/Poison Pokémon",
+        "name": "Spinarak",
+        "interests": [
+            "web weaving",
+            "night lurking",
+            "catching bugs"
+        ]
+    },
+    {
+        "username": "BerryNibbler",
+        "category": "Bug Pokémon",
+        "name": "Scatterbug",
+        "interests": [
+            "leaf munching",
+            "forest crawling",
+            "cocoon crafting"
+        ]
+    },
+    {
+        "username": "SwiftTail",
+        "category": "Normal Pokémon",
+        "name": "Taillow",
+        "interests": [
+            "sky racing",
+            "nest flying",
+            "bug hunting"
+        ]
+    },
+    {
+        "username": "MudSplash",
+        "category": "Water/Ground Pokémon",
+        "name": "Wooper",
+        "interests": [
+            "mud sliding",
+            "pond hopping",
+            "smiling endlessly"
+        ]
+    },
+    {
+        "username": "NuttyCheeks",
+        "category": "Electric Pokémon",
+        "name": "Pachirisu",
+        "interests": [
+            "berry collecting",
+            "tree climbing",
+            "tail fluffing"
+        ]
+    },
+    {
+        "username": "NimbleNose",
+        "category": "Ground Pokémon",
+        "name": "Drilbur",
+        "interests": [
+            "dirt digging",
+            "tunnel racing",
+            "spinning drills"
+        ]
+    },
+    {
+        "username": "TinyPebble",
+        "category": "Rock Pokémon",
+        "name": "Bonsly",
+        "interests": [
+            "rock disguises",
+            "acting classes",
+            "crybaby moments"
+        ]
+    },
+    {
+        "username": "BugsyBite",
+        "category": "Bug Pokémon",
+        "name": "Kricketot",
+        "interests": [
+            "music rhythms",
+            "tree drumming",
+            "forest concerts"
+        ]
+    },
+    {
+        "username": "StoneRoller",
+        "category": "Rock Pokémon",
+        "name": "Dwebble",
+        "interests": [
+            "rock carving",
+            "shell swapping",
+            "sand art"
+        ]
+    },
+    {
+        "username": "FluffBounce",
+        "category": "Normal Pokémon",
+        "name": "Bunnelby",
+        "interests": [
+            "digging holes",
+            "carrot munching",
+            "dirt jumping"
+        ]
+    },
+    {
+        "username": "TailTwister",
+        "category": "Normal Pokémon",
+        "name": "Meowth",
+        "interests": [
+            "coin collecting",
+            "night prowling",
+            "shiny things"
+        ]
+    },
+    {
+        "username": "SleepyEater",
+        "category": "Normal Pokémon",
+        "name": "Skwovet",
+        "interests": [
+            "berry hoarding",
+            "tree naps",
+            "tail fluffing"
+        ]
+    },
+    {
+        "username": "LeafTailer",
+        "category": "Normal Pokémon",
+        "name": "Zigzagoon",
+        "interests": [
+            "zigzag running",
+            "item searching",
+            "sniffing trails"
+        ]
+    },
+    {
+        "username": "TwigSnap",
+        "category": "Grass Pokémon",
+        "name": "Seedot",
+        "interests": [
+            "tree hanging",
+            "camouflage tricks",
+            "nut collecting"
+        ]
+    },
+    {
+        "username": "BugWing",
+        "category": "Bug/Flying Pokémon",
+        "name": "Venonat",
+        "interests": [
+            "night flying",
+            "bug catching",
+            "glowing eyes"
+        ]
+    },
+    {
+        "username": "MudBuddy",
+        "category": "Ground Pokémon",
+        "name": "Barboach",
+        "interests": [
+            "mud swimming",
+            "water ripples",
+            "river drifting"
+        ]
+    },
+    {
+        "username": "ChirpySong",
+        "category": "Normal/Flying Pokémon",
+        "name": "Starly",
+        "interests": [
+            "early morning songs",
+            "sky flocks",
+            "cloud chasing"
+        ]
+    },
+    {
+        "username": "ShellSnap",
+        "category": "Water Pokémon",
+        "name": "Shellder",
+        "interests": [
+            "beach sunbathing",
+            "pearl hunting",
+            "shell snapping"
+        ]
+    },
+    {
+        "username": "StickySap",
+        "category": "Bug/Grass Pokémon",
+        "name": "Sewaddle",
+        "interests": [
+            "leaf blankets",
+            "forest crawling",
+            "sewing nests"
+        ]
+    },
+    {
+        "username": "BuzzSting",
+        "category": "Bug/Flying Pokémon",
+        "name": "Combee",
+        "interests": [
+            "honey making",
+            "flower hopping",
+            "buzzing tunes"
+        ]
+    },
+    {
+        "username": "PuddlePop",
+        "category": "Water Pokémon",
+        "name": "Ducklett",
+        "interests": [
+            "lake paddling",
+            "feather cleaning",
+            "rainy walks"
+        ]
+    },
+    {
+        "username": "TuffTail",
+        "category": "Normal/Fairy Pokémon",
+        "name": "Jigglypuff",
+        "interests": [
+            "singing softly",
+            "drawing faces",
+            "balloon floating"
+        ]
+    },
+    {
+        "username": "WhiskerSplash",
+        "category": "Water Pokémon",
+        "name": "Remoraid",
+        "interests": [
+            "fast swimming",
+            "bubble shooting",
+            "racing currents"
+        ]
+    },
+    {
+        "username": "NuzzleSpark",
+        "category": "Electric Pokémon",
+        "name": "Yamper",
+        "interests": [
+            "fetching things",
+            "spark chasing",
+            "tail wags"
+        ]
+    },
+    {
+        "username": "MudFlop",
+        "category": "Water/Ground Pokémon",
+        "name": "Mudkip",
+        "interests": [
+            "mud rolling",
+            "pond splashing",
+            "wet dirt fun"
+        ]
+    },
+    {
+        "username": "SniffSnuff",
+        "category": "Normal Pokémon",
+        "name": "Fletchling",
+        "interests": [
+            "nest hopping",
+            "soft breezes",
+            "berry picking"
+        ]
+    }
+]
